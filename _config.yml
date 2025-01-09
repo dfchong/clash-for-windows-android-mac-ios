@@ -6,14 +6,14 @@
 title: Clash视频教程和软件下载
 subtitle: ''
 description: ''
-keywords:
+keywords: clash,vpn,翻墙,科学上网,机场
 author: John Doe
-language: en
-timezone: ''
+language: zh-cn
+timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://clash.greenpod.uk/
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
