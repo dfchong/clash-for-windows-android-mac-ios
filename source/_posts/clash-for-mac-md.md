@@ -2,6 +2,9 @@
 title: clash-for-mac
 date: 2024-12-30 23:13:34
 tags:
+- clash
+- vpn
+- mac
 ---
 #### 软件下载
 {% link clash-for-mac.zip https://ronqtn.gxlficllub.uk:9000/clash/files/Clash.for.mac-0.20.39.7z %}

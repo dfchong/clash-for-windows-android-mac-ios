@@ -2,6 +2,9 @@
 title: clash-for-windows
 date: 2024-12-30 23:19:12
 tags:
+- clash
+- windows
+- vpn
 ---
 #### 软件下载
 {% link clash-for-windows.zip https://ronqtn.gxlficllub.uk:9000/clash/files/Clash.for.Windows-0.20.39.7z %}
