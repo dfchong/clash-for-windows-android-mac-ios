@@ -5,3 +5,4 @@
   clash for mac
   potatso for ios / ipad
   注册苹果美区id
+  网址：https://clash.greenpod.uk/
