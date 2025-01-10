@@ -8,7 +8,7 @@ subtitle: ''
 description: ''
 keywords: clash,vpn,翻墙,科学上网,机场
 author: John Doe
-language: zh-cn
+language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
@@ -22,6 +22,8 @@ pretty_urls:
 urlforgoogle: https://clash.greenpod.uk/
 sitemap:
    path: sitemap.xml
+   tag: false
+   category: false
 
 
 # Directory
