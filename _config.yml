@@ -21,9 +21,11 @@ pretty_urls:
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
 urlforgoogle: https://clash.greenpod.uk/
 sitemap:
-   path: sitemap.xml
-   tag: false
-   category: false
+   path: 
+     - sitemap.xml
+   tag: true
+   category: true
+   rel: false
 
 
 # Directory
