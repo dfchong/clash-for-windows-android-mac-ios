@@ -6,3 +6,25 @@
   potatso for ios / ipad
   注册苹果美区id
   网址：https://clash.greenpod.uk/
+  
+  https://srirqp.gxlficllub.uk
+
+
+
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk
+  https://minio.gxlficllub.uk/files/Clash.for.Windows-0.20.39.7z
+
+
+  https://minio.gxlficllub.uk/vedios/clash4windows.mp4
