@@ -2,15 +2,15 @@
 title: clash-for-windows
 date: 2024-12-30 23:19:12
 tags:
-- clash
-- windows
-- vpn
+  - windows
+categories:
+  - windows
 ---
 #### 软件下载
-{% link clash-for-windows https://minio.gxlficllub.uk/files/Clash.for.Windows-0.20.39.7z %}
+{% link clash-for-windows.zip https://minio.gxlficllub.uk/files/Clash.for.Windows-0.20.39.7z %}
 
 #### 购买订阅
-{% link 双月湾机场 https://srirqp.gxlficllub.uk %}
+{% link https://srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 #### 视频教程
 
 

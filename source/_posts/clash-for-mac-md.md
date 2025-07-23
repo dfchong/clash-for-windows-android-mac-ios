@@ -7,11 +7,14 @@ tags:
 - mac
 ---
 #### 软件下载
-{% link clash-for-mac.zip https://ronqtn.gxlficllub.uk:9000/clash/files/Clash.for.mac-0.20.39.7z %}
+{% link clash-for-mac.zip https://minio.gxlficllub.uk/files/Clash.for.mac-0.20.39.7z %}
+
+#### 购买订阅
+{% link https://srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 
 #### 视频教程
 
 
 <video width="100%" height="100%" controls>
-  <source src="https://ronqtn.gxlficllub.uk:9000/clash/videos/clash4mac.mp4" type="video/mp4">
+  <source src="https://minio.gxlficllub.uk/vedios/clash4mac.mp4" type="video/mp4">
 </video>

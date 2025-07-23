@@ -6,9 +6,11 @@ tags:
   - apple id
   - ios
   - pad
+categories:
+  - apple-id
 ---
 
 
 <video width="100%" height="100%" controls>
-  <source src="https://ronqtn.gxlficllub.uk:9000/clash/videos/regappleid2.mp4" type="video/mp4">
+  <source src="https://minio.gxlficllub.uk/vedios/regappleid2.mp4" type="video/mp4">
 </video>
