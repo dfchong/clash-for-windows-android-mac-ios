@@ -9,7 +9,8 @@ tags:
 categories:
   - apple-id
 ---
-
+#### 购买订阅
+{% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 
 <video width="100%" height="100%" controls>
   <source src="https://minio.gxlficllub.uk/vedios/regappleid2.mp4" type="video/mp4">

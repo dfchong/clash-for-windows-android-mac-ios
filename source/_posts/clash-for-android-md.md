@@ -12,7 +12,7 @@ categories:
 
 
 #### 购买订阅
-{% link https://srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
+{% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 
 #### 视频教程
 

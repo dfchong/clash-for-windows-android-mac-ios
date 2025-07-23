@@ -10,7 +10,7 @@ tags:
 {% link clash-for-mac.zip https://minio.gxlficllub.uk/files/Clash.for.mac-0.20.39.7z %}
 
 #### 购买订阅
-{% link https://srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
+{% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 
 #### 视频教程
 

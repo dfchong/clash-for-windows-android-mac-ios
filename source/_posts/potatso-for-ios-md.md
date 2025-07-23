@@ -8,7 +8,7 @@ categories:
   - ios
 ---
 #### 购买订阅
-{% link https://srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
+{% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 
 #### 使用说明
 1. 使用美区id登录app store

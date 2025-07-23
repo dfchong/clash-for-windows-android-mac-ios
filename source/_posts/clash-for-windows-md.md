@@ -10,7 +10,7 @@ categories:
 {% link clash-for-windows.zip https://minio.gxlficllub.uk/files/Clash.for.Windows-0.20.39.7z %}
 
 #### 购买订阅
-{% link https://srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
+{% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 #### 视频教程
 
 
