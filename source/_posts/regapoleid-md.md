@@ -15,3 +15,7 @@ categories:
 <video width="100%" height="100%" controls>
   <source src="https://minio.bluepod.win/vedios/regappleid2.mp4" type="video/mp4">
 </video>
+
+
+  git config --global user.email "dfchong@sina.com"
+  git config --global user.name "dfchong"
