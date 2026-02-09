@@ -16,5 +16,5 @@ tags:
 
 
 <video width="100%" height="100%" controls>
-  <source src="https://minio.gxlficllub.uk/vedios/clash4mac.mp4" type="video/mp4">
+  <source src="https://minio.bluepod.win/vedios/clash4mac.mp4" type="video/mp4">
 </video>
