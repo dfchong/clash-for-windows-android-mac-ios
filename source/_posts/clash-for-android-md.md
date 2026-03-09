@@ -8,7 +8,7 @@ categories:
 ---
 
 #### 软件下载
-{% link clash-for-android.zip  https://minio.gxlficllub.uk/files/Clash.for.android-0.20.39.zip %}
+{% link clash-for-android.zip  https://minio.bluepod.win/files/Clash.for.android-0.20.39.zip %}
 
 
 #### 购买订阅

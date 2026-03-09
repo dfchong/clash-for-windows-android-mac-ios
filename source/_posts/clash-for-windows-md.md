@@ -7,7 +7,7 @@ categories:
   - windows
 ---
 #### 软件下载
-{% link clash-for-windows.zip https://minio.gxlficllub.uk/files/Clash.for.Windows-0.20.39.7z %}
+{% link clash-for-windows.zip https://minio.bluepod.win/files/Clash.for.Windows-0.20.39.7z %}
 
 #### 购买订阅
 {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
@@ -18,3 +18,6 @@ categories:
 <video width="100%" height="100%" controls>
   <source src="https://minio.bluepod.win/vedios/clash4windows.mp4" type="video/mp4">
 </video>
+
+
+
