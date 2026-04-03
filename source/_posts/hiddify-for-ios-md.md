@@ -7,7 +7,6 @@ tags:
 categories:
   - ios
 ---
-#### 购买订阅
 
 #### 软件下载
 {% link hiddify-for-ios.zip  https://minio.bluepod.win/files/i.7z %}

@@ -10,9 +10,8 @@ categories:
 ---
 #### 说明
 1. {% link 官网下载 https://hiddify.com ％}
-
 2. 开启 ipv6
 
 #### 购买订阅
 
-1. {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
+1.  {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
