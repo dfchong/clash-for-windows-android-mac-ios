@@ -8,16 +8,14 @@ categories:
   - ios
 ---
 #### 购买订阅
+
+#### 软件下载
+{% link hiddify-for-ios.zip  https://minio.bluepod.win/files/i.7z %}
+
+
+#### 购买订阅
 {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 
-#### 使用说明
-1. 使用美区id登录app store
-2. 搜 Potatso
-3. 选择黑色 Po (免费)
-
-
-
-
 <video width="100%" height="100%" controls>
-  <source src="https://minio.bluepod.win/vedios/po4ios2.mp4" type="video/mp4">
+  <source src="https://minio.bluepod.win/vedio/h-ios.mp4" type="video/mp4">
 </video>

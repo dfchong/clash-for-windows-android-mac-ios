@@ -1,5 +1,5 @@
 ---
-title: clash-for-android
+title: hiddify-for-android
 date: 2024-12-30 16:59:55
 tags:
   - android
@@ -8,7 +8,7 @@ categories:
 ---
 
 #### 软件下载
-{% link clash-for-android.zip  https://minio.bluepod.win/files/Clash.for.android-0.20.39.zip %}
+{% link hiddify-for-android.zip  https://minio.bluepod.win/files/a.7z %}
 
 
 #### 购买订阅
@@ -17,5 +17,5 @@ categories:
 #### 视频教程
 
 <video width="100%" height="100%" controls>
-  <source src="https://minio.bluepod.win/vedios/clash4android.mp4" type="video/mp4">
+  <source src="https://minio.bluepod.win/vedio/h-android.mp4" type="video/mp4">
 </video>

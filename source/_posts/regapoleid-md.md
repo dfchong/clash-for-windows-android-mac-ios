@@ -1,5 +1,5 @@
 ---
-title: 注册美区id
+title: 添加订阅
 date: 2024-12-30 15:54:43
 tags:
   - apple
@@ -13,9 +13,6 @@ categories:
 {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 
 <video width="100%" height="100%" controls>
-  <source src="https://minio.bluepod.win/vedios/regappleid2.mp4" type="video/mp4">
+  <source src="https://minio.bluepod.win/vedio/h-addnodes.mp4" type="video/mp4">
 </video>
 
-
-  git config --global user.email "dfchong@sina.com"
-  git config --global user.name "dfchong"

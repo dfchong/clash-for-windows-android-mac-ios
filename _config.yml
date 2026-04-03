@@ -3,23 +3,23 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: Clash视频教程和软件下载
+title: Hiddify下载及视频教程
 subtitle: ''
 description: ''
-keywords: clash,vpn,翻墙,科学上网,机场
+keywords: Hiddify,vpn,翻墙,科学上网,机场
 author: John Doe
 language: zh-CN
 timezone: 'Asia/Shanghai'
 
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: https://clash.greenpod.uk/
+url: https://Hiddify.greenpod.uk/
 permalink: :title.html
 permalink_defaults:
 pretty_urls:
   trailing_index: true # Set to false to remove trailing 'index.html' from permalinks
   trailing_html: true # Set to false to remove trailing '.html' from permalinks
-urlforgoogle: https://clash.greenpod.uk/
+urlforgoogle: https://Hiddify.greenpod.uk/
 sitemap:
    path: 
      - sitemap.xml
