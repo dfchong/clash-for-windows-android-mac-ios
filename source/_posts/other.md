@@ -9,9 +9,12 @@ categories:
   - ios
 ---
 #### 说明
-1. {% link 官网下载 https://hiddify.com ％}
-2. 开启 ipv6
+{% link 官网下载 https://hiddify.com ％}
+
+开启 ipv6
+
+如手机无法下载，就用电脑下载，再想办法发到手机上。
 
 #### 购买订阅
 
-1.  {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
+{% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
