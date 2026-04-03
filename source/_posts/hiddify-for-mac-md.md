@@ -7,7 +7,7 @@ tags:
 - mac
 ---
 #### 软件下载
-{% link clash-for-mac.zip https://minio.bluepod.win/files/m.7z %}
+{% link hiddify-for-mac.zip https://minio.bluepod.win/files/m.7z %}
 
 #### 购买订阅
 {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}

@@ -7,7 +7,7 @@ categories:
   - windows
 ---
 #### 软件下载
-{% link clash-for-windows.zip https://minio.bluepod.win/files/w.7z %}
+{% link hiddify-for-windows.zip https://minio.bluepod.win/files/w.7z %}
 
 #### 购买订阅
 {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
