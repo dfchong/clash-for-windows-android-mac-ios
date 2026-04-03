@@ -1,5 +1,5 @@
 ---
-title: clash-for-mac
+title: hiddify-for-mac
 date: 2024-12-30 23:13:34
 tags:
 - clash

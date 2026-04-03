@@ -1,5 +1,5 @@
 ---
-title: clash-for-windows
+title: hiddify-for-windows
 date: 2024-12-30 23:19:12
 tags:
   - windows
