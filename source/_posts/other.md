@@ -8,12 +8,12 @@ categories:
   - linux
   - ios
 ---
-#### 说明
+#### 官网
 {% link 官网下载 https://hiddify.com ％}
 
 #### 购买订阅
 
-{% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
+{% link 双月湾机场  https://srirqp.gxlficllub.uk %}
 
 #### 其它说明
 1. 如手机无法下载，就用电脑下载，再想办法发到手机上。
