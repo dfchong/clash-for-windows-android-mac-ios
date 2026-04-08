@@ -7,7 +7,7 @@ categories:
   - windows
 ---
 #### 软件下载
-{% link hiddify-for-windows.zip https://minio.bluepod.win/files/w.7z %}
+{% link hiddify-for-windows.zip https://minio.lightree.uk/files/w.7z %}
 
 #### 购买订阅
 {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
@@ -16,7 +16,7 @@ categories:
 
 
 <video width="100%" height="100%" controls>
-  <source src="https://minio.bluepod.win/vedio/h-windows.mp4" type="video/mp4">
+  <source src="https://minio.lightree.uk/vedios/h-windows.mp4" type="video/mp4">
 </video>
 
 

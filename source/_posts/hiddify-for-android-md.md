@@ -8,7 +8,7 @@ categories:
 ---
 
 #### 软件下载
-{% link hiddify-for-android.zip  https://minio.bluepod.win/files/a.7z %}
+{% link hiddify-for-android.zip  https://minio.lightree.uk/files/a.7z %}
 
 
 #### 购买订阅
@@ -17,5 +17,5 @@ categories:
 #### 视频教程
 
 <video width="100%" height="100%" controls>
-  <source src="https://minio.bluepod.win/vedio/h-android.mp4" type="video/mp4">
+  <source src="https://minio.lightree.uk/vedios/h-android.mp4" type="video/mp4">
 </video>

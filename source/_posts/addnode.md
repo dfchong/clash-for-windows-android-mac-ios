@@ -13,6 +13,6 @@ categories:
 {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
 
 <video width="100%" height="100%" controls>
-  <source src="https://minio.bluepod.win/vedio/h-addnodes.mp4" type="video/mp4">
+  <source src="https://minio.lightree.uk/vedios/h-addnodes.mp4" type="video/mp4">
 </video>
 

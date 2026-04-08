@@ -7,7 +7,7 @@ tags:
 - mac
 ---
 #### 软件下载
-{% link hiddify-for-mac.zip https://minio.bluepod.win/files/m.7z %}
+{% link hiddify-for-mac.zip https://minio.lightree.uk/files/m.7z %}
 
 #### 购买订阅
 {% link srirqp.gxlficllub.uk  https://srirqp.gxlficllub.uk %}
@@ -16,5 +16,5 @@ tags:
 
 
 <video width="100%" height="100%" controls>
-  <source src="hhttps://minio.bluepod.win/vedio/h-mac.mp4" type="video/mp4">
+  <source src="hhttps://minio.lightree.uk/vedios/h-mac.mp4" type="video/mp4">
 </video>
